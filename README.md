@@ -1,3 +1,3 @@
-# startup-of-the-year
+# Web Site JS project
 Starter project!
 
